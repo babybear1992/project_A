@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset folder
+aclImdb/
+
+# cache folder
+cache/
